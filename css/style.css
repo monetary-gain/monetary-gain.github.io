@@ -26,7 +26,7 @@ body {
 }
 
 a {
-  color: #e60073;
+  color: #dd6b00;
   text-decoration: none;
 }
 
@@ -37,8 +37,8 @@ a:hover {
 hr {
   border: 0px;
   height: 1px;
-  background-color: #e60073;
-  border-color: #e60073;
+  background-color: #dd6b00;
+  border-color: #dd6b00;
 }
 
 .ascii {
@@ -47,15 +47,16 @@ hr {
 
 .main-pre {
   margin: 0 0 0 0;
+  font-family: IBM-3270, monospace;
 }
 
 .home-color {
-  color: #e60073;
-  border-color: #e60073;
+  color: #dd6b00;
+  border-color: #dd6b00;
 }
 
 .post-content,.post-title,.post-meta,.back-button {
-  color: #e60073;
+  color: #dd6b00;
 }
 
 .post-content {
