@@ -12,12 +12,17 @@
        url('css/fonts/inconsolata-v16-latin-regular.svg#Inconsolata') format('svg'); /* Legacy iOS */
 }
 
+@font-face{
+  font-family: IBM-3270;
+  src: url("../fonts/3270-Regular.otf");
+}
+
 body {
   background-color: black;
   max-width: 900px;
   margin: auto;
   margin-top: 10px;
-  font-family: 'Inconsolata', monospace;
+  font-family: IBM-3270;
 }
 
 a {
