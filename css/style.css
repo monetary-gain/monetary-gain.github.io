@@ -22,7 +22,7 @@ body {
   max-width: 900px;
   margin: auto;
   margin-top: 10px;
-  font-family: IBM-3270;
+  font-family: IBM-3270, monospace;
 }
 
 a {
